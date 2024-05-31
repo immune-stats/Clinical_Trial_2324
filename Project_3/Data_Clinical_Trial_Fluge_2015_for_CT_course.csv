@@ -1,0 +1,33 @@
+﻿ID,Gender,Age,Inclusion,Reasons_Exclusion,Received_Treatment,Exclusion_Treatment,Discontinued_Treatment,Reasons_Discontinued,Analyzed,Infection_trigger,Infection,Disease_duration,Severity,Family_AD,Response_duration,Response_end,Longest_period,SF36_0,SF36_15,SF_20_24,SF_36,Function_0,Function_15,Function_24,Function_36
+S30,F,45,No,Ongoing_infection,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+S31,F,33,No,Didn't comply with ME/CFS criteria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+S32,M,65,No,Didn't comply with ME/CFS criteria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+S4A,F,24,Yes,NA,Yes,NA,No,NA,Yes,Yes,Mono,8,Moderate,No,134,Yes,134,36,NA,99,99,10,100,100,100
+S4B,F,46,Yes,NA,Yes,NA,No,NA,Yes,Possible,NA,13,Moderate,Yes,128,Yes,78,32,100,100,100,5,100,100,100
+S4C,F,25,Yes,NA,Yes,NA,No,NA,Yes,Yes,Mono,11,Moderate,No,140,Yes,140,29,77,76,81,20,85,95,95
+S4D,M,21,Yes,NA,Yes,NA,No,NA,Yes,Yes,Viral,8,Mild,No,140,Yes,140,32,59,79,100,35,90,95,95
+S4E,F,28,Yes,NA,Yes,NA,No,NA,Yes,No,NA,12,Moderate,No,144,Yes,144,38,89,92,74,25,90,100,85
+S4F,F,38,Yes,NA,Yes,NA,No,NA,Yes,No,NA,20,Mild,No,118,Yes,106,38,63,72,78,15,70,80,90
+S4G,M,26,Yes,NA,Yes,NA,No,NA,Yes,Yes,Mono,8,Mild/Moderate,Yes,128,Yes,82,39,81,83,82,25,85,85,85
+S4H,F,56,Yes,NA,Yes,NA,No,NA,Yes,Yes,Pneum,11,Mild,No,84,No,56,27,81,92,32,10,85,85,25
+S4I,M,59,Yes,NA,Yes,NA,No,NA,Yes,No,NA,3,Moderate,Yes,96,No,84,15,61,61,25,5,60,60,30
+S4J,F,42,Yes,NA,Yes,NA,Yes,Allergy and Breast Cancer,Yes,Yes,GI,7,Severe,No,44,No,24,17,58,72,NA,5,60,75,NA
+S4K,F,38,Yes,NA,Yes,NA,No,NA,Yes,No,NA,10,Mild,No,72,No,34,15,68,78,21,15,75,85,25
+S4L,F,39,Yes,NA,Yes,NA,No,NA,Yes,Yes,Airways,7,Moderate,No,88,No,38,NA,NA,NA,NA,10,90,90,NA
+S5M,F,23,Yes,NA,Yes,NA,No,NA,Yes,No,NA,5,Moderate,No,90,Yes,42,36,38,64,88,10,75,75,70
+S5N,M,49,Yes,NA,Yes,NA,No,NA,Yes,No,NA,12,Moderate,Yes,62,Yes,62,38,35,44,60,10,50,70,72
+S5O,F,47,Yes,NA,Yes,NA,No,NA,Yes,Yes,Mono,4,Moderate,Yes,96,No,52,28,37,40,35,7,18,30,31
+S5P,M,58,Yes,NA,Yes,NA,No,NA,Yes,No,NA,17,Moderate,Yes,54,Yes,54,35,52,52,NA,15,40,40,NA
+S5Q,F,44,Yes,NA,Yes,NA,No,NA,Yes,Yes,GI,5,Severe,No,46,No,16,14,30,60,12,5,70,70,20
+S5R,M,50,Yes,NA,Yes,NA,No,NA,Yes,Possible,Airways,17,Moderate/Severe,Yes,78,Yes,70,19,26,32,32,8,19,32,38
+S6U,F,56,Yes,NA,Yes,NA,Yes,Non responder,Yes,Yes,Mono,8,Moderate,Yes,16,No,16,26,23,33,29,13,17,75,15
+S6S,F,42,Yes,NA,Yes,NA,Yes,Non responder,Yes,Yes,Borellia,5,Mild,No,0,No,0,33,22,35,58,20,25,35,35
+S6T,F,21,Yes,NA,Yes,NA,Yes,Non responder,Yes,Yes,Airways,7,Moderate,Yes,0,No,0,45,NA,41,NA,20,65,65,NA
+S6V,M,50,Yes,NA,Yes,NA,Yes,Responder but do not fullfill criteria,Yes,No,NA,1,Mild,No,0,No,0,21,43,51,44,50,70,75,75
+S6W,F,26,Yes,NA,Yes,NA,Yes,Airway infections and ITP,Yes,Yes,GI,3,Mild/Moderate,Yes,0,No,0,21,32,30,30,15,20,20,20
+S6X,F,37,Yes,NA,Yes,NA,Yes,Non responder,Yes,No,NA,20,Moderate,Yes,0,No,0,23,21,14,NA,15,15,15,NA
+S6Y,F,32,Yes,NA,Yes,NA,No,NA,Yes,No,NA,9,Moderate/Severe,Yes,0,No,0,20,19,19,NA,8,8,12,NA
+S6Z1,M,51,Yes,NA,Yes,NA,Yes,Non responder,Yes,Yes,GI,8,Mild/Moderate,No,0,No,0,33,33,NA,NA,20,22,NA,NA
+S6Z2,F,49,Yes,NA,Yes,NA,Yes,Non responder,Yes,Yes,Mono,13,Moderate,No,0,No,0,30,26,36,NA,15,15,15,NA
+S6Z3,F,56,Yes,NA,Yes,NA,Yes,Non responder,Yes,Yes,Viral,5,Severe,No,0,No,0,7,9,11,6,8,6,4,3
+S7Z4,M,35,Yes,NA,No,Allergic reaction,NA,NA,Yes,Yes,Throat,1.5,Moderate,No,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
